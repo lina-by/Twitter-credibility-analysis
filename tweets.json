@@ -1,0 +1,176 @@
+[
+    {
+        "created_at": "Sun Nov 21 07:18:39 +0000 2021",
+        "id": 1462319531259576323,
+        "id_str": "1462319531259576323",
+        "full_text": "\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7 https://t.co/kDpsfcNkb7",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            6
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1462319528990461956,
+                    "id_str": "1462319528990461956",
+                    "indices": [
+                        7,
+                        30
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FEsz3SmX0AQpQhN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FEsz3SmX0AQpQhN.jpg",
+                    "url": "https://t.co/kDpsfcNkb7",
+                    "display_url": "pic.twitter.com/kDpsfcNkb7",
+                    "expanded_url": "https://twitter.com/TomLaRuffa/status/1462319531259576323/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1462319528990461956,
+                    "id_str": "1462319528990461956",
+                    "indices": [
+                        7,
+                        30
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/FEsz3SmX0AQpQhN.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/FEsz3SmX0AQpQhN.jpg",
+                    "url": "https://t.co/kDpsfcNkb7",
+                    "display_url": "pic.twitter.com/kDpsfcNkb7",
+                    "expanded_url": "https://twitter.com/TomLaRuffa/status/1462319531259576323/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 1080,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 339231383,
+            "id_str": "339231383",
+            "name": "\ud83c\udde8\ud83c\uddf5Tom La Ruffa\ud83d\udc51",
+            "screen_name": "TomLaRuffa",
+            "location": "Nice (France)",
+            "description": "\ud83c\uddeb\ud83c\uddf7 Catcheur/ProWrestler\n- 5x World Champion\n- 1st ever and current Mediterranean Pro Wrestling Champion\n\n#BelEsprit #AHOU\n- Former @WWE & @ImpactWrestling",
+            "url": "https://t.co/7lmeAaxXVW",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7lmeAaxXVW",
+                            "expanded_url": "https://m.youtube.com/channel/UCAa1-Q4ISbZGvzBVAh4cCgw",
+                            "display_url": "m.youtube.com/channel/UCAa1-\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 41231,
+            "friends_count": 1125,
+            "listed_count": 232,
+            "created_at": "Wed Jul 20 19:48:28 +0000 2011",
+            "favourites_count": 17080,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 12313,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1458895979114082304/ebSKZNzY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458895979114082304/ebSKZNzY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/339231383/1612377622",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    }
+]
