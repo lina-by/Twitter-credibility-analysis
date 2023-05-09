@@ -1,5 +1,9 @@
 # Infaux ou vérité by Les Reptiliens
+Ce projet a été élaboré par Albane Vigier, Clément Véron, Blanche Peyredieu Du Charlat, James Amar et moi-même. Le code était initialement hébergé sur un serveur de CentraleSupélec. Malheureusement, en raison d'une attaque informatique survenue en novembre 2021, je n'y ai plus accès. La version sur ce github correspond au back-up qui se trouvit sur l'ordinateur de Clément, elle est cependant incomplète. Il manque un dossier "twitter_collect", que je reconstituerai à terme.
+En plus d'avoir utilisé diverses techniques dans le cadre de ce projet, j'ai également appris l'importance de toujours sauvegarder des copies de travail sur mon ordinateur personnel !
 
+This project was developed by Albane Vigier, Clément Véron, Blanche Peyredieu Du Charlat, James Amar, and myself. The code was initially hosted on a CentraleSupélec server. Unfortunately, due to a cyber attack in November 2021, I no longer have access to it. The version on this github is the Clément's back-up. However, it is incomplete.  It is missing the folder "twitter_collect", which I will eventually reconstitute.
+In addition to the techniques used in this project, I have also learned the importance of always keeping backups on my personal computer !
 # Les Reptiliens, l'équipe :
 
 Blanche PEYREDIEU DU CHARLAT
